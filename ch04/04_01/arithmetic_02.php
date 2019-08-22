@@ -1,5 +1,6 @@
 <?php
-$a = 5;
-$b = 2;
+$a = 5.8;
+$b = 2.9;
 
-echo $a / $b;
+echo $a / $b . '<br>';
+echo $a % $b. '<br>';

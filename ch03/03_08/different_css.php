@@ -1,3 +1,4 @@
+<!-- The following is not a working solution as hiding the css only hides it from display but not from 'view source'. This is dangerous as it exposes the code that you otherwise might want to hide.-->
 <?php $member = 0; ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -56,7 +57,7 @@
     </section>
 
     <footer class="both">
-        <p>&copy; 2015 Nonesuch Club</p>
+        <p>&copy; 2019 Nonesuch Club</p>
     </footer>
 </div>
 </body>
